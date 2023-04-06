@@ -101,7 +101,7 @@ export const config: Config = {
     icon: <SiDatocms color='#1da1f2' />,
     title: 'Damus',
     name: '@HCNtoMoon',
-    url: 'https://damus.io/npub1gzumvszm3x3ran4euqu3pvu3p4znzry6v55z3apgaxjwhznjyu7svk5cyg',
+    url: 'https://damus.io/',
     color: '#1da1f2',
     },
   ],
