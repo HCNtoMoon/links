@@ -20,7 +20,7 @@ A link aggregation platform similar to bitly
 1. Clone 
 
 ```sh
-git clone https://github.com/HCNtoMoon/links.git
+git clone https://github.com/HCNtoMoon/links-all-in-one.git
 ```
 
 2. Change Directory
