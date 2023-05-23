@@ -43,7 +43,7 @@ export const config: Config = {
     {
       icon: <SiYoutube color='#ef4444' />,
       title: 'YouTube',
-      name: '喜币上月球网站',
+      name: 'HCNtoMoon',
       url: 'https://www.youtube.com/@hcntomoon',
       color: '#ef4444',
     },
@@ -55,11 +55,11 @@ export const config: Config = {
       color: '#ef4444',
     },
     {
-      icon: <SiMastodon color='#ef4444' />,
+      icon: <SiMastodon color='#5f57ef' />,
       title: 'Mastodon',
       name: '@HCNtoMoon',
       url: 'https://mas.to/@hcntomoon',
-      color: '#ef4444',
+      color: '#5f57ef',
     },
     {
       icon: <SiFacebook color='#1299f5' />,
@@ -79,7 +79,7 @@ export const config: Config = {
     {
       icon: <SiGithub color='#f1f1f1' />,
       title: 'GitHub',
-      name: '喜币上月球网站',
+      name: 'HCNtoMoon',
       url: 'https://github.com/HCNtoMoon',
       color: '#f1f1f1',
     },
@@ -101,7 +101,7 @@ export const config: Config = {
     icon: <SiDatocms color='#1da1f2' />,
     title: 'Damus',
     name: '@HCNtoMoon',
-    url: 'https://damus.io/',
+    url: '',
     color: '#1da1f2',
     },
   ],
