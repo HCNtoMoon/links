@@ -27,11 +27,11 @@ type Config = {
 export const config: Config = {
   links: [
     {
-      icon: <SiApacherocketmq color='#ff0000' />,
+      icon: <SiApacherocketmq color='#ffff00' />,
       title: 'Website',
       name: '喜币上月球(HCNtoMoon)网站',
       url: 'https://hcntomoon.github.io',
-      color: '#ff0000',
+      color: '#ffff00',
     },
     {
       icon: <SiTwitter color='#1da1f2' />,
