@@ -93,7 +93,7 @@ export const config: Config = {
     {
       icon: <SiDiscord color='#5662f6' />,
       title: 'Discord',
-      name: '喜币上月球#0866',
+      name: '喜币上月球',
       url: 'https://discord.gg/HPR3Sfds3a',
       color: '#5662f6',
     },
