@@ -47,13 +47,7 @@ export const config: Config = {
       url: 'https://www.youtube.com/@hcntomoon',
       color: '#ef4444',
     },
-    {
-      icon: <SiPytorch color='#ef4444' />,
-      title: 'Gettr',
-      name: '@HCNtoMoon',
-      url: 'https://gettr.com/user/hcntomoon',
-      color: '#ef4444',
-    },
+
     {
       icon: <SiMastodon color='#5f57ef' />,
       title: 'Mastodon',
