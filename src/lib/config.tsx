@@ -77,13 +77,7 @@ export const config: Config = {
       url: 'https://github.com/HCNtoMoon',
       color: '#f1f1f1',
     },
-    {
-      icon: <SiReddit color='#ff4500' />,
-      title: 'Reddit',
-      name: '@HCNtoMoon',
-      url: 'https://www.reddit.com/user/HCNtoMoon',
-      color: '#ff4500',
-    },
+
     {
       icon: <SiDiscord color='#5662f6' />,
       title: 'Discord',
